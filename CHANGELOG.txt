@@ -3,6 +3,9 @@ Theme Piratenkleider
 Changelog 
 (since version 3.2; Former changes look at github.com/Piratenkleider/)
 
+Version 3.3.11:
+* Bugfix: Header image für single objects got wrng attributs
+
 Version 3.3.10:
 * updated use of cmb with wphelper 
 * removed old remainings of dynamic sidebar
